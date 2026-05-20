@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: 705julmyawesomeapp
+  AZURE_WEBAPP_NAME: vjzm44myawssomeapp
   AZURE_WEBAPP_PACKAGE_PATH: .
   NODE_VERSION: '20.x'
 
